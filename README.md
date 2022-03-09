@@ -1,6 +1,6 @@
 Tarayıcı Console Ekran Çıktısı
 
-<img src="https://www.hizliresim.com/s3gmjo2">
+<img src="https://i.hizliresim.com/s3gmjo2.png">
 
 
 # Hamburger Hazırlama Projesi:
