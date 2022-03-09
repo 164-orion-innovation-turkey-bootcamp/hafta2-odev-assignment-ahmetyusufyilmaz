@@ -1,3 +1,8 @@
+Tarayıcı Console Ekran Çıktısı
+
+<img src="https://www.hizliresim.com/s3gmjo2">
+
+
 # Hamburger Hazırlama Projesi:
 
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
@@ -45,3 +50,4 @@ Verilen malzeme listesi ve iş sürecini kullanarak bir hamburger işletmesi fon
 Kullanılacak diller: (JavaScript, TypeScript)
 Herhangi bir html,css görüntü katmanına gerek yok. Sadece fonksiyonelite örneği hazırlanmalıdır.
 </strong>
+
