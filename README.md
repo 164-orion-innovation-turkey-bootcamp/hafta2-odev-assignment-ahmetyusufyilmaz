@@ -1,5 +1,7 @@
 Tarayıcı Console Ekran Çıktısı
 
+<img src="https://i.hizliresim.com/r45b28r.png">
+
 <img src="https://i.hizliresim.com/s3gmjo2.png">
 
 
